@@ -24,7 +24,10 @@ This will format your memory and allow it to be written to with any other app.
 
 
 This was my final result:
-![epic card](https://cdn.discordapp.com/attachments/875838356062359573/1265423154570985523/IMG_1409.MOV?ex=66a21d66&is=66a0cbe6&hm=cac2573d26732311fbc57782fa70897f55ed53c338c74dd08982d8360771f7e7&)
 
-https://cdn.discordapp.com/attachments/875838356062359573/1265423154570985523/IMG_1409.MOV?ex=66a21d66&is=66a0cbe6&hm=cac2573d26732311fbc57782fa70897f55ed53c338c74dd08982d8360771f7e7&
 
+https://github.com/user-attachments/assets/0c28cfc7-f71e-4215-afc8-399dd9557775
+
+
+
+<video src="https://cloud-ji8p9kfqj-hack-club-bot.vercel.app/0img_1409.mp4"/>
